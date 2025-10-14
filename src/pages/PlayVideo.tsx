@@ -29,7 +29,8 @@ export function PlayVideo() {
     'https://enviousgarbage.com/HE9TFh',
     'https://mo.gatsbykynurin.com/iDo8P9Ad0aP/94691',
     'https://aviatorreproducesauciness.com/2082665',
-    'https://viidedss.com/dc/?blockID=388556'
+    'https://viidedss.com/dc/?blockID=388556',
+    'https://enviousgarbage.com/bO3.VP0DPH3vpnvRbhmFVtJ_ZVDu0v2qNnjOcx2/N/TKYO0_LHThYP2jNCz/Yf1MNFjhUy'
   ];
 
   useEffect(() => {
